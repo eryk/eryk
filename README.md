@@ -2,6 +2,8 @@
 
 [![eryk's github stats](https://github-readme-stats.vercel.app/api?username=eryk)](https://github.com/eryk/github-readme-stats)
 
+---
 
+<img src="./halfcode.png" width="380" height="120" alt="半码"/><br/>
 
-<img src="https://github.com/eryk/eryk/blob/main/halfcode.png" width="340" height="120" alt="半码"/><br/>
+<img src="./python.png" width="380" height="120" alt="Python量化交易实战"/><br/>
